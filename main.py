@@ -10,7 +10,7 @@ class Point:
     def get(self):
         print(self.x, self.y)
 
-p= Point(30,40)
+p= Point(40,50)
 p.get()
 print(Point.a)
 print(p.x)
